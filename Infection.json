@@ -210,7 +210,7 @@
 	]
 	"archetype":[
 		{
-			"name":"Odin,
+			"name":"Odin",
 			"Voie1":"Voie de l'elocution",
 			"Voie2":"Voie de l'épéiste",
 			"Voie3":"Voie de l'érudit",
@@ -218,7 +218,7 @@
 			"DeVie":"8",
 		},
 		{
-			"name":"Mars,
+			"name":"Mars",
 			"Voie1":"Voie du forgeron",
 			"Voie2":"Voie du berzerk",
 			"Voie3":"Voie de l'especiste",
@@ -226,7 +226,7 @@
 			"DeVie":"10",
 		},
 		{
-			"name":"Baron Samedi,
+			"name":"Baron Samedi",
 			"Voie1":"Voie de l'assasin",
 			"Voie2":"Voie de l'acrobate",
 			"Voie3":"Voie du Rodeur",
@@ -234,7 +234,7 @@
 			"DeVie":"6",
 		},
 		{
-			"name":"Arduinna,
+			"name":"Arduinna",
 			"Voie1":"Voie de la survie",
 			"Voie2":"Voie du sniper",
 			"Voie3":"Voie du Rodeur",
@@ -242,7 +242,7 @@
 			"DeVie":"6",
 		},
 		{
-			"name":"Hermes,
+			"name":"Hermes",
 			"Voie1":"Voie de l'elocution",
 			"Voie2":"Voie de l'acrobate",
 			"Voie3":"Voie de l'épéiste",
@@ -250,7 +250,7 @@
 			"DeVie":"6",
 		},
 		{
-			"name":"Ptah,
+			"name":"Ptah",
 			"Voie1":"Voie de la survie",
 			"Voie2":"Voie du forgeron",
 			"Voie3":"Voie du protecteur",
@@ -258,7 +258,7 @@
 			"DeVie":"8",
 		},
 		{
-			"name":"Loki,
+			"name":"Loki",
 			"Voie1":"Voie de l'elocution",
 			"Voie2":"Voie de l'empoisonneur",
 			"Voie3":"Voie de l'ami des bêtes",
@@ -266,7 +266,7 @@
 			"DeVie":"6",
 		},
 		{
-			"name":"Thanatos,
+			"name":"Thanatos",
 			"Voie1":"Voie de l'assasin",
 			"Voie2":"Voie du sniper",
 			"Voie3":"Voie du parieur",
@@ -274,7 +274,7 @@
 			"DeVie":"6",
 		},
 		{
-			"name":"Sekhmet,
+			"name":"Sekhmet",
 			"Voie1":"Voie du berzerk",
 			"Voie2":"Voie du protecteur",
 			"Voie3":"Voie de l'épéiste",
@@ -282,7 +282,7 @@
 			"DeVie":"10",
 		},
 		{
-			"name":"Cernunnos,
+			"name":"Cernunnos",
 			"Voie1":"Voie de la survie",
 			"Voie2":"Voie du Rodeur",
 			"Voie3":"Voie de l'ami des bêtes",
