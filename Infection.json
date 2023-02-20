@@ -122,11 +122,11 @@
 			"skillName1":"(doit être équipé d'une épée pour utiliser cette compétence) L'épéiste peut utiliser son mod d'attaque a distance pour une attaque au contact",
 			"skill2":"Experience de combat",
 			"skillName2":"(doit être équipé d'une épée pour utiliser cette compétence) L'épéiste ajoute son mod d'intelligence à son mod d'attaque",
-			"skill3":"Pluie de lame",
+			"skill3":"Deluge de lame",
 			"skillName3":"(doit être équipé d'une épée pour utiliser cette compétence) L'épéiste peut décider de lancer autant de Dé d'attaque que de rang dans cette voie. Si toutes les attaques sont réussies il multiplie ses dégats par le nombre de Dé. Sinon l'attaque échoue et DEF-5 pour ce tour.",
 			"skill4":"La voix de l'épée",
 			"skillName4":"(doit être équipé d'une épée pour utiliser cette compétence) L'épéiste ajoute son mod de DEX à tout ses jets de charisme",
-			"skill5":"Dage et épée",
+			"skill5":"Dague et épée",
 			"skillName5":"(doit être équipé d'une épée pour utiliser cette compétence) Si l'épéiste est équiper d'une dague et d'une épée il frappe avec ses deux armes à chaque tour."
 		},
 		{
